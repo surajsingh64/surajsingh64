@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my skill **Python**
 
-- 🌱 I’m currently learning **Python, panda, c++, numpy matplotlib, seaborne, html**
+- 🌱 I’m currently learning **Python, panda, c++, numpy matplotlib, seaborn, html**
 
 - 📫 How to reach me **Singhsuraj98664@gmail.com**
 
